@@ -35,7 +35,7 @@
     "@types/express-session": "^1.17.4",
     "@types/faker": "^5.5.7",
     "@types/morgan": "^1.9.3",
-    "@types/node": "^12.0.12",
+    "@types/node": "^18.19.130",
     "@types/react": "^18.3.17",
     "@types/react-dom": "^18.3.5",
     "@types/uid-safe": "^2.1.2",
